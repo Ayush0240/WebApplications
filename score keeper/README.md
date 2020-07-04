@@ -1,2 +1,2 @@
 # Score Keeper
-simple application to tracks scores.
+simple application to track scores.
